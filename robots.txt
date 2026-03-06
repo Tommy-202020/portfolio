@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://philiphanna.minecore.dev/sitemap.xml
